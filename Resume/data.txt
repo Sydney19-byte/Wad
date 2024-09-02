@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - CAESAR sydney </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: gray;
+            color: #333;
+            margin-left: 20%;
+            margin-right: 20%;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: gray;
+        }
+
+        a {
+            color: #1e90ff;
+            margin-bottom: 7px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+2            margin-bottom: 20px;
+            border: 0px solid white;
+        }
+
+        table,
+        th,
+        td {
+            border: 0px solid white;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+
+        li {
+            padding: 7px;
+        }2
+
+        hr {
+            color: white;
+            border: width 1px;
+            margin-top: 48px;
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table>
+        <tr></tr>
+        <tr>
+            <td style="width: 30%;background-color: lightgray;padding: 24px;">
+                <div style="text-align: center;">
+                <img src="atimas.jpg" alt="CAESAR Sydney" width="150" height="150" style="border-radius: 50%;margin: auto; display: block;">
+
+            </div>
+                   
+                <h3 style="padding-top: 7px; font-family: Georgia, 'Times New Roman', Times, serif;">CONTACT</h3>
+                Muni University<br>
+                Arua - Muni - Ocoko Road<br>
+                P. O. Box 725, Arua City<br>
+                Phone: +256-761-970-876<br>
+                Email: <a href="mailto:sydneycaesa7@gmail.com">sydneycaesa7@gmail.com</a><br>
+                <hr>
+                <h3 style="padding-top: 7px; font-family: Georgia, 'Times New Roman', Times, serif;">MISSION</h3>
+                <p>
+                    To design, implement, and secure a robust network infrastructure for mid-sized company, ensuring high availability, scalability, and protection against potential threats and provide leadership to the community.
+                </p>
+                <hr>
+                <h3 style="padding-top: 7px; font-family: Georgia, 'Times New Roman', Times, serif;">LEADERSHIP</h3>
+                <p>
+                    Currently a profound student of Muni University pursuing a Bachelors degree in information systems faculty of Technoscience in higher education, demonstrating a network infrastructure for mid-sized company and increasing responsibility. Currently serving as the class coordinator for information systems in the faculty 
+                    of Technoscience at Muni University to date, bringing extensive experience in leadership, inform of bridging the gap between the lecturers and the students.
+                </p>
+            </td>
+            <td style="padding-right: 10%; padding-left: 5%; background-color: whitesmoke;padding: 24px;">
+                <h1>CAESAR <br>Sydney</h1>
+                <hr>
+                <h2 style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-weight: lighter;">ISM STUDENT</h2>
+                <h3 style="padding-top: 24px; font-family: Georgia, 'Times New Roman', Times, serif;">EDUCATION</h3>
+                <ul>
+                    <li>UACE (Uganda Advanced Certificate of Education) Namiryango Senior Secondary School Seeta, Uganda; 2020.
+                    </li>
+                    <li>UCE (Uganda Certificate of Education) Kigumba Intensive Secondary School Kigumba, Uganda; 2018.
+                    </li>
+                    <li>PLE (Primary Leaving Education) Christ The King Kintergaden Primary School Arua, Uganda; 2013.
+                    </li>
+                </ul>
+                <hr>
+                <h3 style="padding-top: 24px; font-family: Georgia, 'Times New Roman', Times, serif;">EXPERIENCE</h3>
+                <p>
+                    Class Coordinator Information Systems (Muni University). [2024]; Network Admin (ICT Labs Ntinda). [2022 - 2023]; Chief Judge (Namiryango Senior Secondary School). [2019 - 2020];
+                    Welfare(Kigumba Secondary School). [2017 – 2018];
+                </p>
+                <hr>
+                <h3 style="padding-top: 24px; font-family: Georgia, 'Times New Roman', Times, serif;">REFERENCES</h3>
+                <ul>
+                    <li>Joseph Kayima, Systems Administrator, ICT Labs Ntinda.</li>
+                    <li>Mrs Nakuya Deborah, Headmistress, Namiryango Senior Secondary School.</li>
+                </ul>
+
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
